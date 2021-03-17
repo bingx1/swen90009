@@ -5,15 +5,14 @@
 17/03/2021 13:00
 
 ### Attendees
-
-Brendan Ho
-Kahsheng Lee
-Samart Khandelwal
-Yifei Yu
-Giovanna Su
+- Brendan Ho
+- Kahsheng Lee
+- Samart Khandelwal
+- Yifei Yu
+- Giovanna Su
 
 ### Absentees
-Bing Xu
+- Bing Xu
 
 ### Agenda
 Discussing interview questions, biweekly and backlog meetings
