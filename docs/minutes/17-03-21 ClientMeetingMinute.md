@@ -32,45 +32,47 @@ Problem
 Scope of the solution
 
 ### Interview Conducting
-#### Ask for permission to record
-#### State current understanding of project
-	- Motivation: Canvas LMS exists, but client wants a dashboard for how accessing, interacting and performing
-	- Developing a dashboard on canvas
-	- Analytics and core functionality
-	- Only users: students?
-#### Reconcile differences
+	- Ask for permission to record
+	- State current understanding of project
+		- Motivation: Canvas LMS exists, but client wants a dashboard for how accessing, interacting and performing
+		- Developing a dashboard on canvas
+		- Analytics and core functionality
+		- Only users: students?
+	- Reconcile differences
 
-#### Ask questions
+	- Ask questions
+		- (From lecture)
+			- What is the product?
+			- What are the objectives for the product?
+			- What is to be accomplished?
+			- How does the system fit into the needs of the business?
+			- How is the product to be used on a day to day basis?
 
-##### (From lecture)
-	- What is the product?
-	- What are the objectives for the product?
-	- What is to be accomplished?
-	- How does the system fit into the needs of the business?
-	- How is the product to be used on a day to day basis?
+		- What is H5P exactly?
+			- H5P makes widgets. Investigate and decide to use it or not
+		- What do we need to do, and what do we not need to do? (scope)
+		- How much of H5P do they prefer us to use? preferences for tools?
+		- What does self reflecting include? 
+		- How is that going to reflect in the analytics? 
+		- What performance metrics do we gather from the student? 
+		- How do we process it?
+		- What is the output?
+		- Are we just doing the UI?
+		- Does the client have any preferences to how the students will interact with the dashboard?
+		- How much customizability will the dashboard require?
+		- Ask if he could provide us with scenarios for each potential user
+		- Take notes
 
-##### What is H5P exactly?
-	- H5P makes widgets. Investigate and decide to use it or not
-##### What do we need to do, and what do we not need to do? (scope)
-##### How much of H5P do they prefer us to use? preferences for tools?
-##### What does self reflecting include? 
-##### How is that going to reflect in the analytics? 
-##### What performance metrics do we gather from the student? 
-##### How do we process it?
-##### What is the output?
-##### Are we just doing the UI?
-##### Does the client have any preferences to how the students will interact with the dashboard?
-##### How much customizability will the dashboard require?
-##### Ask if he could provide us with scenarios for each potential user
-##### Take notes
 
 
 ### Notes:
+
 #### Paula
 	- psychology, learn how to use tech to better support students
 	- interested to know how students behaviours impact performance
 	- learning analytics - audit logs that LMS records, canvas records every click you do when you log in
 	- interested in: struggling students vs motivated vs need help on quiz?
+
 #### Role
 
 ##### Student
