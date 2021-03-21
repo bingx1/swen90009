@@ -14,6 +14,6 @@ This repository contains files, meeting minutes, requirements from our SWEN90009
 6. Samarth Khandelwal
 
 ## Changelog
-**Sprint 1**
+**v1.0: Sprint 1**
 - Added project overview 
 - Added requirements elicitation technique
