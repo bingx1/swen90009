@@ -17,3 +17,9 @@ This repository contains files, meeting minutes, requirements from our SWEN90009
 **v1.0: Sprint 1**
 - Added project overview 
 - Added requirements elicitation technique
+
+**v1.1: Sprint 2**
+- Added do/be/feel done in conjunction with client
+- Added personas
+- Added goal model
+- Removed team and supervisor meeting minutes from the github
