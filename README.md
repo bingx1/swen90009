@@ -23,3 +23,9 @@ This repository contains files, meeting minutes, requirements from our SWEN90009
 - Added personas
 - Added goal model
 - Removed team and supervisor meeting minutes from the github
+
+**v1.2: Sprint 3**
+- Added paper protoypes to the /prototypes/low fidelity/ directory
+- Added user stories
+- Added user journey map
+- Added icons and static assets for the prototype
