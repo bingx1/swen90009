@@ -1,0 +1,9 @@
+// Used by Assignment model
+{
+  // Min score
+  "min": 6,
+  // Max score
+  "max": 15,
+  // Mean score
+  "mean": 10
+}

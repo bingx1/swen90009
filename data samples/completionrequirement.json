@@ -1,0 +1,9 @@
+{
+  // one of 'must_view', 'must_submit', 'must_contribute', 'min_score',
+  // 'must_mark_done'
+  "type": "must_view",
+  // whether the calling user has met this requirement (Optional; present only if
+  // the caller is a student or if the optional parameter 'student_id' is
+  // included)
+  "completed": true
+}

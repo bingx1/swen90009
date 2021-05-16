@@ -1,0 +1,23 @@
+// Generic statistics for all submissions for a quiz.
+{
+  // The number of students who have taken the quiz.
+  "unique_count": 253,
+  // The mean of the student submission scores.
+  "score_average": 7.999999,
+  // The highest submission score.
+  "score_high": 10,
+  // The lowest submission score.
+  "score_low": 3,
+  // Standard deviation of the submission scores.
+  "score_stdev": 1.64721912892465,
+  // A percentile distribution of the student scores, each key is the percentile
+  // (ranges between 0 and 100%) while the value is the number of students who
+  // received that score.
+  "scores": {"50":73,"34":150,"100":30},
+  // The mean of the number of questions answered correctly by each student.
+  "correct_count_average": 7.9999,
+  // The mean of the number of questions answered incorrectly by each student.
+  "incorrect_count_average": 2,
+  // The average time spent by students while taking the quiz.
+  "duration_average": 42.333333333
+}
