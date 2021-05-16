@@ -3,7 +3,8 @@
 **H5P Analytics**
 
 2021 Sem 1 Software Requirements Analysis Project
-This repository contains files, meeting minutes, requirements from our SWEN90009 semester long project.
+
+This repository contains files, meeting minutes and requirements from our SWEN90009 semester long project.
 
 ### Team CA Wombat:
 1. Kahsheng Lee
@@ -29,3 +30,9 @@ This repository contains files, meeting minutes, requirements from our SWEN90009
 - Added user stories
 - Added user journey map
 - Added icons and static assets for the prototype
+
+**v1.3: Sprint 4**
+- Added data samples to /data samples
+- Added pdf export of figma high fidelity prototype to /prototypes/high fidelity and a link to the prototype on Figma
+- Added Sprint 4 artefacts (moodboard, acceptance criteria, acceptance tests, canvas api notes and traceability matrix) to /docs
+- Moved the /icons used in prototypes to the /ui directory
