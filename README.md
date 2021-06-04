@@ -6,13 +6,22 @@
 
 This repository contains files, meeting minutes and requirements from our SWEN90009 semester long project.
 
-### Team CA Wombat:
+## Team CA Wombat:
 1. Kahsheng Lee
 2. Brendan Ho
 3. Yifei Yu 
 4. Giovanna Su
 5. Bing Xu
 6. Samarth Khandelwal
+
+## Final Release
+- The docs folder contains documents that are exported from the Confluence
+- The tests folder contains the acceptance criteria and the acceptance tests
+- The data sample folder contains data samples we have gathered using Canvas API
+-  The prototypes folder contains the low fidelity and the high fidelity prototypes
+- The ui folder contains all the images and graphical resources we have used in the project
+- The sprints folder contains sprint artifacts and meeting minutes 
+
 
 ## Changelog
 **v1.0: Sprint 1**
@@ -41,5 +50,5 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 - Added images and graphical resources we have used in this project to /ui
 - Added a Sprints folder for storing sprint artifacts
 - Added acceptance criteria and acceptance test to /test
-- Experted Confluence pages and added to /docs
+- Exported Confluence pages and added them to /docs
 
