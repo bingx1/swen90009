@@ -9,7 +9,7 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 ### Team CA Wombat:
 1. Kahsheng Lee
 2. Brendan Ho
-3. Daniel Yu 
+3. Yifei Yu 
 4. Giovanna Su
 5. Bing Xu
 6. Samarth Khandelwal
@@ -36,3 +36,10 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 - Added pdf export of figma high fidelity prototype to /prototypes/high fidelity and a link to the prototype on Figma
 - Added Sprint 4 artefacts (moodboard, acceptance criteria, acceptance tests, canvas api notes and traceability matrix) to /docs
 - Moved the /icons used in prototypes to the /ui directory
+
+**v2.0: Sprint 5**
+- Added images and graphical resources we have used in this project to /ui
+- Added a Sprints folder for storing sprint artifacts
+- Added acceptance criteria and acceptance test to /test
+- Experted Confluence pages and added to /docs
+
