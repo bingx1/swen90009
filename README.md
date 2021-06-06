@@ -15,10 +15,9 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 6. Samarth Khandelwal
 
 ## Table of Content
-```bash
-├── [Documents](/docs)
-│   ├── [Canvas API](/docs/Canvas%20API.pdf)
-```
+- [Documents](/docs)
+  - [Canvas API](/docs/Canvas%20API.pdf)
+
 
 
 ## Final Release
