@@ -10,7 +10,7 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 1. Kahsheng Lee
 2. Brendan Ho
 3. Yifei Yu 
-4. Giovanna Su
+4. Tong Su
 5. Bing Xu
 6. Samarth Khandelwal
 
