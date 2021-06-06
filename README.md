@@ -15,8 +15,8 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 6. Samarth Khandelwal
 
 ## Table of Content
-1. [Documents](/docs)
-  - [Cannvas API](/docs/Canvas\API.pdf)
++-- [Documents](/docs)
+|   +-- [Canvas API](/docs/Canvas\API.pdf)
 
 ## Final Release
 - The docs folder contains documents that are exported from the Confluence
