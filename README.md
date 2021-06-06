@@ -28,9 +28,21 @@ This repository contains files, meeting minutes and requirements from our SWEN90
   - [Traceability Matrix](/docs/Traceability%20Matrix.pdf)
   - [User Stories](/docs/User%20Stories.pdf)
 - [Test](/tests)
-  - [](/tests)
-  - [](/tests)
-
+  - [Acceptance Criteria](/tests/Acceptance%20Criteria.pdf)
+  - [Acceptance Tests](/tests/Acceptance%20Tests.pdf)
+- [Data Sample](/data%20samples)
+  - [Completion Requirement](/data%20samples/Completion%20Requirement.json)
+  - [Page View](/data%20samples/Page%20View.json)
+  - [Quiz Statistics Submission Statistics](/data%20samples/Quiz%20Statistics%20Submission%20Statistics.json)
+  - [Score Statistic](/data%20samples/Score%20Statistic.json)
+- [Prototypes](/prototypes)
+  - [High Fidelity Prototype](/prototypes/high%20fidelity)
+  - [Low Fidelity Prototype](/prototypes/low%20fidelity)
+- [UI Images](/ui)
+  - [Charts](/ui/charts)
+  - [icons](/ui/icons)
+  - [images](/ui/images)
+- [Sprints Artifact](/Sprints)
 
 
 ## Final Release
