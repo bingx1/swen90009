@@ -2,7 +2,7 @@
 
 **H5P Analytics**
 
-2021 Sem 1 Software Requirements Analysis Project
+2021 Semester 1 Software Requirements Analysis Project
 
 This repository contains files, meeting minutes and requirements from our SWEN90009 semester long project.
 
