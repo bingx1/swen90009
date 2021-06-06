@@ -14,6 +14,9 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 5. Bing Xu
 6. Samarth Khandelwal
 
+## Table of Content
+[a relative link](/docs)
+
 ## Final Release
 - The docs folder contains documents that are exported from the Confluence
 - The tests folder contains the acceptance criteria and the acceptance tests
