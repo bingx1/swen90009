@@ -17,6 +17,19 @@ This repository contains files, meeting minutes and requirements from our SWEN90
 ## Table of Content
 - [Documents](/docs)
   - [Canvas API](/docs/Canvas%20API.pdf)
+  - [Final Presentation Slide](/docs/Final%20Presentation%20slide.pdf)
+  - [Goal Model](/docs/Goal%20Model.pdf)
+  - [Moodboard](/docs/Moodboard.pdf)
+  - [Motivational Model](/docs/Motivational%20Model.pdf)
+  - [Personas](/docs/Personas.pdf)
+  - [Presentation Feedbacks](/docs/Presentation%20Feedbacks.pdf)
+  - [Project Overview](/docs/Project%20Overview.pdf)
+  - [Requirements Elicitation](/docs/Requirements%20Elicitation.pdf)
+  - [Traceability Matrix](/docs/Traceability%20Matrix.pdf)
+  - [User Stories](/docs/User%20Stories.pdf)
+- [Test](/tests)
+  - [](/tests)
+  - [](/tests)
 
 
 
